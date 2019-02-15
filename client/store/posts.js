@@ -4,6 +4,10 @@
 import Vue from 'vue'
 import axios from 'axios'
 
+// URLS:
+// Posts: https://jsonplaceholder.typicode.com/posts
+// Comments: https://jsonplaceholder.typicode.com/comments?postId=1
+
 const state = {
 
 }
