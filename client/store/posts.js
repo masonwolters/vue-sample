@@ -2,6 +2,7 @@
 
 // Vuex
 import Vue from 'vue'
+import axios from 'axios'
 
 const state = {
 
